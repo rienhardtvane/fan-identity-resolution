@@ -1,0 +1,15 @@
+# generated at runtime
+club.db
+*.sqlite
+*.sqlite3
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
